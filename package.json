@@ -34,15 +34,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/reuzsc"
+    "url": "git+https://github.com/Sho-ryuu/Shoryuu-Bot"
+/
+Shoryuu-Bot
+1
+00
+"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Endika Mulyo Utomo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/reuzsc/issues"
+    "url": "https://github.com/Sho-ryuu/Shoryuu-Bot/issues"
   },
-  "homepage": "https://github.com/benisadewa/reuzsc#readme"
+  "homepage": "https://github.com/Sho-ryuu/Shoryuu-Bot#readme"
 }
