@@ -7,7 +7,7 @@ const fetch = require('node-fetch');
 const urlencode = require("urlencode");
 const axios = require("axios");
 const imageToBase64 = require('image-to-base64');
-const menu = require("./menu.js");
+const menu = require("./lib/menu.js");
 const
 {
    WAConnection,
